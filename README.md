@@ -230,9 +230,9 @@ streamlit run app.py
 
 <div align="center">
 
-## **Yuva Rani**
+## **S.Nithaershana**
 
-**B.Tech – Artificial Intelligence & Data Science**
+**B.E.Electronics and communication Engineering**
 
 *AI | Machine Learning | Data Analytics*
 
